@@ -548,7 +548,7 @@ footer .copyright {
 
 /* Start Media Query */
 
-/* @media (max-width:799px) {
+@media (max-width:799px) {
     .section-p1 {
         padding: 40px 40px;
     }
@@ -711,4 +711,4 @@ footer .copyright {
     footer .copyright {
         text-align: start;
     }
-} */
+}
