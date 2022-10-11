@@ -729,7 +729,7 @@ footer .copyright {
 #about-app .video {
     width: 70%;
     height: 100%;
-    margin-top: 30px;
+    margin: 30px auto 0 auto;
 }
 
 #about-app .video video {
@@ -941,6 +941,25 @@ footer .copyright {
     }
 
     #blog .blog-details {
+        width: 100%;
+    }
+
+    /* About Page */
+
+    #about-head {
+        flex-direction: column;
+    }
+
+    #about-head img {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    #about-head div {
+        padding-left: 0px;
+    }
+
+    #about-app .video {
         width: 100%;
     }
 
