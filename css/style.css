@@ -738,6 +738,14 @@ footer .copyright {
     border-radius: 20px;
 }
 
+/* Contact Page */
+
+#contact-details {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
 /* Cart Page  */
 
 /* Start Media Query */
